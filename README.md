@@ -4,7 +4,7 @@
 ### Do Vision–Language Models Recognize Places Beyond Their Source Views?
 **A Comprehensive Benchmark for Cross-View Bidirectional Place Recognition**
 
-[Project website](https://acrossplace.ornatesparrow2.chatgpt.site) · [Data browser](https://acrossplace.ornatesparrow2.chatgpt.site/#explorer) · [Retrieval lab](https://acrossplace.ornatesparrow2.chatgpt.site/#demo) · [Manuscript draft](https://acrossplace.ornatesparrow2.chatgpt.site/assets/manuscript-draft.pdf) · [Supplementary draft](https://acrossplace.ornatesparrow2.chatgpt.site/assets/supplementary-draft.pdf)
+[Project website](https://acrossplace.ornatesparrow2.chatgpt.site) · [Data browser](https://acrossplace.ornatesparrow2.chatgpt.site/#explorer) · [Retrieval lab](https://acrossplace.ornatesparrow2.chatgpt.site/#demo)
 
 **56,726 places · 23 cities · 156,800 rule-valid descriptions · 113,404 target images**
 
@@ -14,7 +14,7 @@
 
 AcrossPlace evaluates whether language–vision models retrieve **the same physical place across independent views**, rather than recognize the exact image that supplied a caption. It builds on GSV-Cities with traceable generated descriptions, separate source and target views, fixed place partitions, bidirectional relevance and diagnostic evaluations. This repository releases the construction pipeline, benchmark protocols, baseline training/testing code, measured results and the interactive project website.
 
-This is a **benchmark release**, not a claim of a new retrieval architecture. The linked paper is a research draft; no conference acceptance is implied.
+This is a **benchmark release**, not a claim of a new retrieval architecture. Paper files are withheld from the public release.
 
 ## What is included
 
