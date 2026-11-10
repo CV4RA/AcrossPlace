@@ -1,0 +1,42 @@
+[
+  {
+    "protocol": "P0",
+    "method": "T1_clip16_place",
+    "epochs": "3,3,3"
+  },
+  {
+    "protocol": "P0",
+    "method": "T2_lavpr_blip_ms",
+    "epochs": "3,3,3"
+  },
+  {
+    "protocol": "P0",
+    "method": "T3_siglip_ms",
+    "epochs": "3,3,3"
+  },
+  {
+    "protocol": "P0",
+    "method": "T4_siglip_place",
+    "epochs": "3,3,3"
+  },
+  {
+    "protocol": "P1",
+    "method": "T1_clip16_place",
+    "epochs": "3,3,3"
+  },
+  {
+    "protocol": "P1",
+    "method": "T2_lavpr_blip_ms",
+    "epochs": "3,3,3"
+  },
+  {
+    "protocol": "P1",
+    "method": "T3_siglip_ms",
+    "epochs": "3,3,3"
+  },
+  {
+    "protocol": "P1",
+    "method": "T4_siglip_place",
+    "epochs": "3,3,3"
+  }
+]

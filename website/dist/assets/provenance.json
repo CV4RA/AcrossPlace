@@ -1,0 +1,222 @@
+[
+  {
+    "url": "assets/2fc36be306dc7aa11664.jpg",
+    "sha256": "2fc36be306dc7aa1166471a2f6a7e06dd5f6a5cc2ee58d10900da4eba5eddf71",
+    "dataset_relative_path": "Images/Rome/Rome_0001741_2018_06_202_41.89650474110877_12.49428568393638_g-MVuSTahsm32Qzi0w_atg.jpg"
+  },
+  {
+    "url": "assets/6840ef9a8a9320401d60.jpg",
+    "sha256": "6840ef9a8a9320401d6009e173469223697753b22621f9b4f9110e94d9aae08f",
+    "dataset_relative_path": "Images/Rome/Rome_0001741_2014_06_204_41.8964769398427_12.4942698112001_8m7gI9iBb5tzG4tEJFyPNA.jpg"
+  },
+  {
+    "url": "assets/53e8ddaf3ea2f3994477.jpg",
+    "sha256": "53e8ddaf3ea2f3994477a54d4275394a37ea1838e3e8ca6b1a273aa5f658f92f",
+    "dataset_relative_path": "Images/Rome/Rome_0001741_2016_06_216_41.89649257238616_12.49427559417657_wtULHAj-12acVtqMtiOPnA.jpg"
+  },
+  {
+    "url": "assets/2b11b86b995ecbd69f32.jpg",
+    "sha256": "2b11b86b995ecbd69f323c3141064da4de31930112c3dda71c1451921a6cc5e8",
+    "dataset_relative_path": "Images/Rome/Rome_0001741_2017_07_202_41.89646861770843_12.49425539072211_L4FCXjpSHz0XskXD-hfcag.jpg"
+  },
+  {
+    "url": "assets/d42a1e337715aed95133.jpg",
+    "sha256": "d42a1e337715aed95133e53b8111601f5df3ec66d182bb259aecb5aa6e281a05",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0000563_2007_11_405_38.89670149369105_-77.01514229308246_Vt5UPx1fmJSpaVVN4Hzxyg.jpg"
+  },
+  {
+    "url": "assets/0dcccdbbc53457dd733c.jpg",
+    "sha256": "0dcccdbbc53457dd733c3fd25455a8dfe7a1bc150a2fc9c08aa34d6468d623a4",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0000563_2019_07_420_38.89671462623723_-77.01514625382059_8iSY9AlD1FSeQEXZ1ffnbg.jpg"
+  },
+  {
+    "url": "assets/6f93cf820faee8749fa2.jpg",
+    "sha256": "6f93cf820faee8749fa26c88c18ea55d91295671e1889ea4658a9c9868ead81d",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0000563_2014_04_415_38.8967259279676_-77.01514806624486_6JPtEh24pVhwA1WcfF1G-g.jpg"
+  },
+  {
+    "url": "assets/ee6959c90b0155b42cc0.jpg",
+    "sha256": "ee6959c90b0155b42cc07b35be66ed9617a8b2e7efbe564b8908262daf927e0c",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0000563_2008_06_409_38.89674570266666_-77.01513578526188_jAuHHymfhqmNBHid8ScKYw.jpg"
+  },
+  {
+    "url": "assets/9d9ec3fe3a39b18e77fa.jpg",
+    "sha256": "9d9ec3fe3a39b18e77faab10dbbaca070a21ecab5343b375c8747df859a7e0ed",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002166_2007_07_056_44.9614851778458_-93.22599515605953_iUNI52G2u45k3gh4sqnJtA.jpg"
+  },
+  {
+    "url": "assets/c952bbb9e0e656eed859.jpg",
+    "sha256": "c952bbb9e0e656eed859953bafa2c4fecec1b19124a9c7c8cd16efdb9335fb26",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002166_2015_09_247_44.96150890962758_-93.22600565885844_QAT-4L5xC0A643OwfO6f2Q.jpg"
+  },
+  {
+    "url": "assets/c72b6aeb57a0068d2ebb.jpg",
+    "sha256": "c72b6aeb57a0068d2ebbd94ac91c9347cca98da0cf796711b82dc6618816c1df",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002166_2014_09_230_44.96148432649639_-93.22597450633234_3GjLafU-DuwkAr9QhPLXJg.jpg"
+  },
+  {
+    "url": "assets/4c28752808d98f7307a8.jpg",
+    "sha256": "4c28752808d98f7307a8883070fcab87b83465bdb63cabf0a36296193d78d2a2",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002166_2017_10_045_44.96148684663481_-93.2260108753843_W9vqL0dpn7aB_XUpMTBmTw.jpg"
+  },
+  {
+    "url": "assets/ab96dbe2fb835f690e86.jpg",
+    "sha256": "ab96dbe2fb835f690e8605c84f8cd507b22e4b1680d9b3ce5885d68e41bd06d8",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0000669_2011_08_314_44.94497777083334_-93.26713883591438_fUOz9UCaxqX7VePbc8bgAQ.jpg"
+  },
+  {
+    "url": "assets/f85ad14908f18c107120.jpg",
+    "sha256": "f85ad14908f18c107120680a4a869fc8563e9abbe963222b915fccd2caadacd3",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002358_2009_10_262_44.96322086845785_-93.21615546648968_mWriMImADHCfy-6IDZnlXQ.jpg"
+  },
+  {
+    "url": "assets/4847975fc7d350e3cb54.jpg",
+    "sha256": "4847975fc7d350e3cb544b58fa186181e741fd199e6c82592ca609f093fb6e18",
+    "dataset_relative_path": "Images/Rome/Rome_0001365_2008_06_223_41.89173602082322_12.47339408173808_uLTANrOCZ8ZgxYokjfyhxw.jpg"
+  },
+  {
+    "url": "assets/9560f2fa26242b1ac9f6.jpg",
+    "sha256": "9560f2fa26242b1ac9f6a680d14ac8cafebea90b79172d9b05e0414da3d498cc",
+    "dataset_relative_path": "Images/Rome/Rome_0001365_2014_08_206_41.89178642809403_12.47342823155145_1LAOOidFDfxUL6hUOrzJhQ.jpg"
+  },
+  {
+    "url": "assets/66b6b6adb2e14cf1ceda.jpg",
+    "sha256": "66b6b6adb2e14cf1cedacdc80c1c866f7299823edd1d625ebaaa738d3401250c",
+    "dataset_relative_path": "Images/Rome/Rome_0002066_2008_06_258_41.90131254864312_12.4640559487074__x4CttAfbdXUW5Sd2DEf1A.jpg"
+  },
+  {
+    "url": "assets/9341b78449b9b5d0e7bb.jpg",
+    "sha256": "9341b78449b9b5d0e7bb03a4ce728889e38544af93dce77a712c6285311794a0",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0001287_2018_10_470_38.90981872575784_-77.05040060918105_iOP1mdOQo-KI_b06oEwmJg.jpg"
+  },
+  {
+    "url": "assets/08d5795b90f5746cdcfb.jpg",
+    "sha256": "08d5795b90f5746cdcfb9a4c7d43b4644e830520247f2af6241905e6ab0e5b11",
+    "dataset_relative_path": "Images/Rome/Rome_0001365_2018_07_212_41.89172683777667_12.47338994214608_9fWffZL-jCVovQ3oVeT4QA.jpg"
+  },
+  {
+    "url": "assets/75f35648d0d4cbb88990.jpg",
+    "sha256": "75f35648d0d4cbb88990a10469798fe525154801714353f97d157bb5a831ef72",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0003258_2017_10_125_44.97357047385836_-93.22613074751736_4vRPze3acFn0OACS2pOziA.jpg"
+  },
+  {
+    "url": "assets/4e68416cc6add7b20f92.jpg",
+    "sha256": "4e68416cc6add7b20f920435e3ad908e1973af2bfbe170df4012016b67f29542",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0003258_2013_08_129_44.97356536492668_-93.22617102771925_ACA9gtrnAI2DllrIF8CyrQ.jpg"
+  },
+  {
+    "url": "assets/e8c016407eb003138035.jpg",
+    "sha256": "e8c016407eb0031380352c4411bcaa9f00d30902fe38ed42753051c2ac180a12",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0003258_2019_06_124_44.97356736578119_-93.22615920018944_3oeeILyfhIITTjmmhfiV9g.jpg"
+  },
+  {
+    "url": "assets/41140f63d524bc4df824.jpg",
+    "sha256": "41140f63d524bc4df8241b36ff4e3ca7b596b3f2c5774353a33dc65dff1198e9",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0003105_2011_06_149_44.97232107947507_-93.28808462621436_OpakrXHtk5lHAM8wjl_QQQ.jpg"
+  },
+  {
+    "url": "assets/46741d14e7a5a57b6c59.jpg",
+    "sha256": "46741d14e7a5a57b6c5935ed3ef4a5334f57c45d1ec15b644370892782d0d9ab",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0001300_2015_07_389_38.909666736551_-77.03160845314778_Nnrx-_RCBiPoVjZ_x_8G4A.jpg"
+  },
+  {
+    "url": "assets/c19027c735b5c8c4efb9.jpg",
+    "sha256": "c19027c735b5c8c4efb96294ced06e10973ba21895dd5bf3117883dc35752b69",
+    "dataset_relative_path": "Images/Rome/Rome_0001117_2018_06_276_41.88748043788775_12.5092806886823_nvUkXTpYH9_USvkn-sBfBA.jpg"
+  },
+  {
+    "url": "assets/e979be2a411a38f8a436.jpg",
+    "sha256": "e979be2a411a38f8a436a2220e6c657bbf8f23a370f3b7f30e69ae41b39780d4",
+    "dataset_relative_path": "Images/Rome/Rome_0001287_2020_09_140_41.89020614822255_12.46599709494191_8TgkQrYWoh6SC8EYUWNSaQ.jpg"
+  },
+  {
+    "url": "assets/04e0780c9efba5546d07.jpg",
+    "sha256": "04e0780c9efba5546d07c1718c0cedf194b2c95fb79e1f09aa6c592820f6ffa2",
+    "dataset_relative_path": "Images/Rome/Rome_0002177_2020_08_054_41.90253729603872_12.50518296497855_c7ZCo0-w18kiJRydNIuC0g.jpg"
+  },
+  {
+    "url": "assets/59394bb55179e4fd12e3.jpg",
+    "sha256": "59394bb55179e4fd12e3e4c976e4b611e08adb009c2b54807ec1af320f6510c8",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0000280_2017_08_301_44.94132637083258_-93.29206895941456_Lx1Ij_WObyPSU0XQVpdDeQ.jpg"
+  },
+  {
+    "url": "assets/8ed62ea1143e44730176.jpg",
+    "sha256": "8ed62ea1143e4473017642413675382ea87257ad3d5637dc05b3286edb171e5c",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0000280_2014_08_296_44.94133647054237_-93.29206993128476_A0jO0vdxLi29O63Fm-mkhQ.jpg"
+  },
+  {
+    "url": "assets/5a684f16525ed5686252.jpg",
+    "sha256": "5a684f16525ed5686252d4f128e4fb45758dab2a824205f7ed9e8a29a4352c0a",
+    "dataset_relative_path": "Images/Rome/Rome_0000660_2008_05_098_41.88143355599212_12.47900368447396_iomKB9FUNbdzdqgw6DYgew.jpg"
+  },
+  {
+    "url": "assets/849111b3dbc4df6dec5b.jpg",
+    "sha256": "849111b3dbc4df6dec5bea3ecd4cfca436ee0dba333c06ab62b8f0dd58c9c041",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0001239_2019_06_229_44.95135804908615_-93.24265693782463_H8yQHR08za2SS0tMr1asbA.jpg"
+  },
+  {
+    "url": "assets/9a2195472791430c3352.jpg",
+    "sha256": "9a2195472791430c33526f9ba65ba8116b271813d4468df0a38498ddbc20d33e",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0001239_2016_08_051_44.95135920958666_-93.24270301593668_bSnAvPq7kjQ5SZUv87CuFw.jpg"
+  },
+  {
+    "url": "assets/6311bc796d465d2d7072.jpg",
+    "sha256": "6311bc796d465d2d70722c7c0b50882dcee9f8bb2e8a8deb269b7b5ae6d349a6",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002706_2009_06_096_44.96777912393576_-93.2319606788906_WlElp_8Ri9NZOIz40QbGVw.jpg"
+  },
+  {
+    "url": "assets/0a1df5ee507b0de3b670.jpg",
+    "sha256": "0a1df5ee507b0de3b67011ce8926b9df16eadebff19291164eaf03063266a0d5",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002706_2011_10_095_44.96776903943555_-93.23197914685394_aS9WBP5BlW-hVNG29J42wg.jpg"
+  },
+  {
+    "url": "assets/7e4fc53dd9caa5691307.jpg",
+    "sha256": "7e4fc53dd9caa56913076bb0f2befc1267717112673a7bf1075c19d519923100",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0002706_2019_06_108_44.96776075069596_-93.23198875843136_GJCBFYy6gNYE0hGHbVML8w.jpg"
+  },
+  {
+    "url": "assets/e5be75e061478c6dbe62.jpg",
+    "sha256": "e5be75e061478c6dbe62785d1046cea84a454000ac73d5cac5f08d221e5382f5",
+    "dataset_relative_path": "Images/Minneapolis/Minneapolis_0004428_2011_07_121_44.98629785256026_-93.24015182031437_EBSfl-itaWZCIb7g1DNeqg.jpg"
+  },
+  {
+    "url": "assets/3117c6927d36d3693b71.jpg",
+    "sha256": "3117c6927d36d3693b7164bf8dc46635711aceae7789286a4be011abc2276623",
+    "dataset_relative_path": "Images/Rome/Rome_0000430_2020_09_274_41.87843732482435_12.46024744434883_G8L5N1lwe0tgNRKZLWPHnA.jpg"
+  },
+  {
+    "url": "assets/09bc8ddbbd65152e27a3.jpg",
+    "sha256": "09bc8ddbbd65152e27a3bbdbef992c8875eafaa2c902975d51efbccf9dab06e9",
+    "dataset_relative_path": "Images/Rome/Rome_0000430_2012_08_279_41.87844425327165_12.46024819074848_998dTZBE6sTH9tYYirTtKg.jpg"
+  },
+  {
+    "url": "assets/fb4ea149b27e4fa19b38.jpg",
+    "sha256": "fb4ea149b27e4fa19b38fe27f0477b0c56bf3d2143e5b57d5015303e4a0e56ca",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0000215_2011_04_454_38.89068489816922_-77.01215855620131_QMhw0ZexJ8y3u3lFDlZ4iw.jpg"
+  },
+  {
+    "url": "assets/147e76e8d81563010284.jpg",
+    "sha256": "147e76e8d81563010284b8dfdd4b423c9cfb435a52bf5881f9cbd2a6bfcb2fdf",
+    "dataset_relative_path": "Images/WashingtonDC/WashingtonDC_0000215_2014_05_452_38.89073306527295_-77.01213567606021_0dyNowSlRtPNNPlpy-tnaw.jpg"
+  },
+  {
+    "url": "assets/e256866cd99d7e231667.jpg",
+    "sha256": "e256866cd99d7e231667c1f8889da697643d7bdbb58547aff7134eb932d0fc44",
+    "dataset_relative_path": "Images/Rome/Rome_0002256_2020_09_227_41.9031726428103_12.51134921074738_ytzAmqyhATSSRdbTHQtDQg.jpg"
+  },
+  {
+    "url": "assets/9d1ed241423f2c8c9f5c.jpg",
+    "sha256": "9d1ed241423f2c8c9f5c00133e4cd1b83d61751a950d7c580afa4527d332dcc2",
+    "dataset_relative_path": "Images/Rome/Rome_0002256_2018_06_223_41.90318682617375_12.51135157091676_dmHRrq4tlroC8ulxERR-FA.jpg"
+  },
+  {
+    "url": "assets/71bbfc1c962ee44a652a.jpg",
+    "sha256": "71bbfc1c962ee44a652a00af19458bbc345b84c16d4fd2ce7631e53dd8e610ff",
+    "dataset_relative_path": "Images/Rome/Rome_0001058_2017_05_244_41.88645782101921_12.52156869244013_B99rK1P8bkMfAmGCAUP7Wg.jpg"
+  },
+  {
+    "url": "assets/4746ad1cc151aedf00cc.jpg",
+    "sha256": "4746ad1cc151aedf00cccc9df45ae44126c4435cd43926a4b2445f65492dd889",
+    "dataset_relative_path": "Images/Rome/Rome_0001058_2014_07_250_41.88647116770586_12.52156480243538_O97yApS9IDtm3law0662NA.jpg"
+  }
+]

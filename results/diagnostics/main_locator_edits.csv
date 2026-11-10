@@ -1,0 +1,5 @@
+﻿file,before,after
+5_results.tex,(Appendix Fig.~\ref{fig:trainingpanels}),
+5_results.tex, (Appendix Table~\ref{tab:qualitymatched}),
+5_results.tex, (Appendix Table~\ref{tab:humanretrieval}),
+5_results.tex,Qualitative T2I/I2T examples (Appendix Figs.~\ref{fig:qualt2i} and~\ref{fig:quali2t}) illustrate semantic aliasing:,Retrieval errors illustrate semantic aliasing:

@@ -1,0 +1,98 @@
+[
+  {
+    "protocol": "P0",
+    "family": "pretrained_blip",
+    "direction": "T2I",
+    "mean": 3.88,
+    "within_checkpoint_draw_sd": 0.23874672772626665,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_siglip",
+    "direction": "T2I",
+    "mean": 5.36,
+    "within_checkpoint_draw_sd": 0.3974921382870359,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P0",
+    "family": "supervised_siglip",
+    "direction": "T2I",
+    "mean": 13.580000000000002,
+    "within_checkpoint_draw_sd": 0.6954395290681757,
+    "between_training_seed_sd": 0.040000000000000036
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_blip",
+    "direction": "I2T",
+    "mean": 4.0,
+    "within_checkpoint_draw_sd": 0.4062019202317982,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_siglip",
+    "direction": "I2T",
+    "mean": 5.08,
+    "within_checkpoint_draw_sd": 0.5357238094391552,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P0",
+    "family": "supervised_siglip",
+    "direction": "I2T",
+    "mean": 11.686666666666667,
+    "within_checkpoint_draw_sd": 0.5285074203409462,
+    "between_training_seed_sd": 0.27592269448766454
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_blip",
+    "direction": "T2I",
+    "mean": 4.12,
+    "within_checkpoint_draw_sd": 0.5357238094391551,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_siglip",
+    "direction": "T2I",
+    "mean": 3.6399999999999997,
+    "within_checkpoint_draw_sd": 0.6877499545619759,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P1",
+    "family": "supervised_siglip",
+    "direction": "T2I",
+    "mean": 10.613333333333333,
+    "within_checkpoint_draw_sd": 1.0671581970360349,
+    "between_training_seed_sd": 0.1803699901129164
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_blip",
+    "direction": "I2T",
+    "mean": 3.4,
+    "within_checkpoint_draw_sd": 0.2738612787525828,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_siglip",
+    "direction": "I2T",
+    "mean": 3.14,
+    "within_checkpoint_draw_sd": 0.3435112807463532,
+    "between_training_seed_sd": null
+  },
+  {
+    "protocol": "P1",
+    "family": "supervised_siglip",
+    "direction": "I2T",
+    "mean": 9.366666666666669,
+    "within_checkpoint_draw_sd": 1.1257042747900547,
+    "between_training_seed_sd": 0.06429100507328767
+  }
+]

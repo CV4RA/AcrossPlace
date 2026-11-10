@@ -1,0 +1,40 @@
+{
+  "source_labels": [
+    "supported",
+    "partial",
+    "contradicted",
+    "unknown"
+  ],
+  "target_labels": [
+    "visible",
+    "partial",
+    "not_visible",
+    "unknown"
+  ],
+  "counts": [
+    [
+      148,
+      6,
+      9,
+      3
+    ],
+    [
+      0,
+      3,
+      2,
+      3
+    ],
+    [
+      0,
+      0,
+      15,
+      8
+    ],
+    [
+      0,
+      0,
+      11,
+      32
+    ]
+  ]
+}

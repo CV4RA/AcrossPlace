@@ -1,0 +1,19 @@
+﻿section,title,words_in_source
+1,"Evaluation Units, Evidence Scope, and Reproducibility",384
+2,Supervision Gains Across Ranks and Protocols,331
+3,Reranking Responses and Directional Asymmetry,336
+4,Adaptation Components Under the Same Protocol,441
+5,Training-Seed Dispersion and Checkpoint Selection,331
+6,Epoch-Wise Optimization and Diminishing Increments,312
+7,Paired Observation Transfer as Hit Transitions,341
+8,City-Level Heterogeneity in Independent-Observation Retrieval,260
+9,Capture-Time and Heading Metadata,263
+10,Caption Length and Generation-Type Associations,297
+11,Fixed-Query Gallery Scaling and Endpoint Retention,307
+12,Gallery-Draw Variation at Matched Cardinality,374
+13,Rule-Status Differences Before and After Matching,434
+14,Joint Human Judgments and Rule-Stratum Composition,295
+15,Human-Stratified Retrieval Beyond a Single Cutoff,559
+16,Shared Failures and Frozen-Model Complementarity,356
+17,Qualitative Text-to-Image Retrieval,148
+18,Qualitative Image-to-Text Retrieval,145

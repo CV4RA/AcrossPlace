@@ -1,0 +1,98 @@
+[
+  {
+    "protocol": "P0",
+    "family": "pretrained_blip",
+    "direction": "T2I",
+    "first": 6.0,
+    "last": 2.6,
+    "retention_percent": 43.333333333333336
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_blip",
+    "direction": "I2T",
+    "first": 4.8,
+    "last": 3.2,
+    "retention_percent": 66.66666666666667
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_siglip",
+    "direction": "T2I",
+    "first": 7.2,
+    "last": 4.6,
+    "retention_percent": 63.88888888888888
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_siglip",
+    "direction": "I2T",
+    "first": 6.8,
+    "last": 4.3999999999999995,
+    "retention_percent": 64.70588235294117
+  },
+  {
+    "protocol": "P0",
+    "family": "supervised_siglip",
+    "direction": "T2I",
+    "first": 18.06666666666667,
+    "last": 11.133333333333333,
+    "retention_percent": 61.62361623616235
+  },
+  {
+    "protocol": "P0",
+    "family": "supervised_siglip",
+    "direction": "I2T",
+    "first": 18.86666666666667,
+    "last": 10.999999999999998,
+    "retention_percent": 58.30388692579503
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_blip",
+    "direction": "T2I",
+    "first": 6.4,
+    "last": 1.0,
+    "retention_percent": 15.625
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_blip",
+    "direction": "I2T",
+    "first": 4.6,
+    "last": 0.8,
+    "retention_percent": 17.39130434782609
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_siglip",
+    "direction": "T2I",
+    "first": 7.6,
+    "last": 1.0,
+    "retention_percent": 13.157894736842106
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_siglip",
+    "direction": "I2T",
+    "first": 4.8,
+    "last": 0.6,
+    "retention_percent": 12.5
+  },
+  {
+    "protocol": "P1",
+    "family": "supervised_siglip",
+    "direction": "T2I",
+    "first": 14.666666666666668,
+    "last": 2.8666666666666667,
+    "retention_percent": 19.545454545454547
+  },
+  {
+    "protocol": "P1",
+    "family": "supervised_siglip",
+    "direction": "I2T",
+    "first": 14.73333333333333,
+    "last": 3.1333333333333333,
+    "retention_percent": 21.266968325791858
+  }
+]

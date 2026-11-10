@@ -1,0 +1,40 @@
+device: cuda
+cpu_threads: 8
+seed: 42
+output: runs/gsv_full
+
+data:
+  formal: datasets/formal
+  image_root: datasets/GSVCities
+  canonical_prefix: /root/autodl-tmp/datasets/GSVCities
+  fingerprint: 0aa126e367f28be0b4f63356081c55dc9c3525c99cd70ba81a5689dd9aa06d4a
+
+models:
+  siglip: artifacts/siglip2-base-patch16-384
+  blip: artifacts/blip-itm-base-coco
+
+training:
+  epochs: 3
+  places_per_batch: 16
+  images_per_place: 2
+  texts_per_place: 4
+  head_lr: 0.0001
+  lora_lr: 0.00002
+  weight_decay: 0.01
+  temperature: 0.07
+  tolerance_m: 25
+  warmup_ratio: 0.1
+  max_grad_norm: 1.0
+  lora_rank: 8
+  lora_alpha: 16
+  lora_last_layers: 4
+  workers: 4
+
+evaluation:
+  encode_batch_size: 32
+  visual_batch_size: 64
+  pair_batch_size: 32
+  workers: 4
+  text_length: 64
+  candidates: 100
+  fusion_weights: [0, 2, 5, 10, 20, 50]

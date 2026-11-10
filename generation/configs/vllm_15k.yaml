@@ -1,0 +1,64 @@
+model_identity:
+  name: ../artifacts/Qwen3-VL-4B-Instruct
+  artifact_sha256: 6efa4249417c81fb61d50abe3d27e7bec93db5766656ca0c1f83da22551512d6
+  dtype: bfloat16
+  vllm: 0.11.2
+  preprocessing:
+    max_pixels: 200704
+    min_pixels: 4096
+vllm:
+  base_url: http://127.0.0.1:8000/v1
+  served_model: qwen3-vl-4b
+  concurrency: 128
+  timeout_s: 300
+  server_profile:
+    gpu_memory_utilization: 0.9
+    max_num_seqs: 128
+    max_num_batched_tokens: 16384
+dataset:
+  index: outputs/data/places.jsonl
+  max_places: 15000
+  plan_file: outputs/vllm_15k/cache/plans.jsonl
+protocol:
+  protocol: B
+  seed: 42
+  source_panorama_groups: 2
+  max_source_views: 2
+  duplicate_hamming: 4
+fusion:
+  attribute_similarity_threshold: 0.85
+  min_shared_views: 2
+  min_support: 0.5
+  min_confidence: 0.5
+generation:
+  descriptions_per_type: 2
+  language: en
+  types:
+  - detailed
+  - concise
+  - partial
+  - relational
+  visual_max_tokens: 1024
+  caption_max_tokens: 640
+  retry_max_tokens: 1536
+  max_retries: 2
+quality:
+  enabled: true
+  enable_grounding_check: true
+  enable_hallucination_check: true
+  enable_consistency_check: true
+  enable_duplication_check: true
+  enable_discrimination_check: true
+  enable_length_check: true
+  retain_uncertain: true
+  vlm_verification: false
+  threshold: 0.0
+  min_words: 4
+  max_words: 100
+  duplicate_jaccard: 0.9
+  weights:
+  - 0.5
+  - 0.3
+  - 0.2
+output:
+  directory: outputs/vllm_15k

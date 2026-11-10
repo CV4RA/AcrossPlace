@@ -1,0 +1,22 @@
+[
+  {
+    "file": "5_results.tex",
+    "before": "(Appendix Fig.~\\ref{fig:trainingpanels})",
+    "after": ""
+  },
+  {
+    "file": "5_results.tex",
+    "before": " (Appendix Table~\\ref{tab:qualitymatched})",
+    "after": ""
+  },
+  {
+    "file": "5_results.tex",
+    "before": " (Appendix Table~\\ref{tab:humanretrieval})",
+    "after": ""
+  },
+  {
+    "file": "5_results.tex",
+    "before": "Qualitative T2I/I2T examples (Appendix Figs.~\\ref{fig:qualt2i} and~\\ref{fig:quali2t}) illustrate semantic aliasing:",
+    "after": "Retrieval errors illustrate semantic aliasing:"
+  }
+]

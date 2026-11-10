@@ -1,0 +1,122 @@
+[
+  {
+    "protocol": "P0",
+    "family": "pretrained_blip",
+    "direction": "T2I",
+    "n": 1349,
+    "both": 1.8532246108228319,
+    "lost": 5.930318754633062,
+    "gained": 1.630837657524092,
+    "neither": 90.58561897702
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_blip",
+    "direction": "I2T",
+    "n": 1349,
+    "both": 2.2979985174203117,
+    "lost": 4.595997034840623,
+    "gained": 1.3343217197924389,
+    "neither": 91.77168272794663
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_siglip",
+    "direction": "T2I",
+    "n": 1349,
+    "both": 2.2238695329873983,
+    "lost": 3.4840622683469236,
+    "gained": 2.6686434395848777,
+    "neither": 91.62342475908079
+  },
+  {
+    "protocol": "P0",
+    "family": "pretrained_siglip",
+    "direction": "I2T",
+    "n": 1349,
+    "both": 2.5203854707190514,
+    "lost": 3.558191252779837,
+    "gained": 2.0756115641215716,
+    "neither": 91.84581171237954
+  },
+  {
+    "protocol": "P0",
+    "family": "supervised_siglip",
+    "direction": "T2I",
+    "n": 1349,
+    "both": 8.796639486039041,
+    "lost": 10.89696071163825,
+    "gained": 3.5087719298245617,
+    "neither": 76.79762787249814
+  },
+  {
+    "protocol": "P0",
+    "family": "supervised_siglip",
+    "direction": "I2T",
+    "n": 1349,
+    "both": 7.857672349888806,
+    "lost": 10.872251050160614,
+    "gained": 2.446256486286138,
+    "neither": 78.82382011366444
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_blip",
+    "direction": "T2I",
+    "n": 8425,
+    "both": 0.3798219584569733,
+    "lost": 2.4688427299703264,
+    "gained": 0.7359050445103857,
+    "neither": 96.41543026706232
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_blip",
+    "direction": "I2T",
+    "n": 8425,
+    "both": 0.3916913946587537,
+    "lost": 2.1008902077151337,
+    "gained": 0.6528189910979229,
+    "neither": 96.85459940652818
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_siglip",
+    "direction": "T2I",
+    "n": 8425,
+    "both": 0.5222551928783382,
+    "lost": 2.4688427299703264,
+    "gained": 0.7477744807121661,
+    "neither": 96.26112759643917
+  },
+  {
+    "protocol": "P1",
+    "family": "pretrained_siglip",
+    "direction": "I2T",
+    "n": 8425,
+    "both": 0.6409495548961425,
+    "lost": 1.922848664688427,
+    "gained": 0.48664688427299707,
+    "neither": 96.94955489614243
+  },
+  {
+    "protocol": "P1",
+    "family": "supervised_siglip",
+    "direction": "T2I",
+    "n": 8425,
+    "both": 1.641938674579624,
+    "lost": 5.843719090009891,
+    "gained": 1.4718100890207715,
+    "neither": 91.04253214638972
+  },
+  {
+    "protocol": "P1",
+    "family": "supervised_siglip",
+    "direction": "I2T",
+    "n": 8425,
+    "both": 1.6340257171117705,
+    "lost": 4.716122650840752,
+    "gained": 1.218595450049456,
+    "neither": 92.43125618199804
+  }
+]

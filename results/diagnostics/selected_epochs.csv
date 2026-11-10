@@ -1,0 +1,9 @@
+﻿protocol,method,epochs
+P0,T1_clip16_place,"3,3,3"
+P0,T2_lavpr_blip_ms,"3,3,3"
+P0,T3_siglip_ms,"3,3,3"
+P0,T4_siglip_place,"3,3,3"
+P1,T1_clip16_place,"3,3,3"
+P1,T2_lavpr_blip_ms,"3,3,3"
+P1,T3_siglip_ms,"3,3,3"
+P1,T4_siglip_place,"3,3,3"

@@ -1,0 +1,308 @@
+{
+  "schema_version": 2,
+  "reviewer_type": "human_user",
+  "review_scope": "original_full_text_against_source_image",
+  "exported_at": "2026-11-03T11:32:42.499Z",
+  "rows": [
+    {
+      "audit_id": "A01",
+      "evidence_id": "3a3376248cdb2c066991d8f3566dabe619dc6ddbca5757039e79aee80441cc1f",
+      "place_id": "Barcelona:0001440",
+      "text_id": "Barcelona:0001440_T3",
+      "text": "Gray rectangular trash bin with red and white stripes.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Barcelona/Barcelona_0001440_2015_04_314_41.39603986911334_2.176323158774812_x_IvlZdboCm3t9LniIOrig.jpg",
+      "human_judgment": "partial",
+      "human_comment": "有两个灰色垃圾箱，其中左边为红色盖子，右边为灰色盖子。"
+    },
+    {
+      "audit_id": "A02",
+      "evidence_id": "1a1ccfe0123f22bceac2398f36d6e221b297e325d6c07d9de8a776e9d2c9658a",
+      "place_id": "PRS:0003430",
+      "text_id": "PRS:0003430_T4",
+      "text": "Stone facade with horizontal blinds on window.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/PRS/PRS_0003430_2019_06_260_48.87327042687922_2.231304942748017_NN4W_zDY2tVOaZ3xzuJOKQ.jpg",
+      "human_judgment": "unknown",
+      "human_comment": "看不出窗户带水平百叶"
+    },
+    {
+      "audit_id": "A03",
+      "evidence_id": "ad03439f93c29700df87d4598101944ea8f693f2fd14f69080b0451133a59f98",
+      "place_id": "London:0005599",
+      "text_id": "London:0005599_T6",
+      "text": "From this viewpoint, a brick building with a triangular window stands left of the road, adjacent to it, with a modern glass building behind.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/London/London_0005599_2017_03_358_51.51290002656132_-0.0916009030833165_bJQuMM0IlwPzGeaId7udNw.jpg",
+      "human_judgment": "contradicted",
+      "human_comment": "右边不是玻璃建筑，而是框架结构建筑。"
+    },
+    {
+      "audit_id": "A04",
+      "evidence_id": "fd1b5100c18e72c31006023a8b44b56133868ae089dfa24780cc35eb74515c5b",
+      "place_id": "TRT:0002373",
+      "text_id": "TRT:0002373_T4",
+      "text": "Brick building with chimney and gabled roof.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/TRT/TRT_0002373_2015_05_138_43.72814104153451_-79.38779054340421_AA7MFXomohcmQ_ydHDy7Ag.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A05",
+      "evidence_id": "723f7a18f10b30d4de1b8f0651b1d9700db4edc1a08fa49f62da3787dce00bb2",
+      "place_id": "LosAngeles:0000669",
+      "text_id": "LosAngeles:0000669_T1",
+      "text": "From this viewpoint, a brick building with ground-floor storefronts and multiple windows lines the right side of a paved road, adjacent to a sidewalk with concrete surface and curb. A blue-painted building with commercial signage stands left of the road, beside a utility pole.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/LosAngeles/LosAngeles_0000669_2009_04_232_34.05049846456908_-118.248458918848_bLoQXS1l9KOEkd-QA0f5og.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A06",
+      "evidence_id": "cd691598aca41555b8a3a211bd0645ccd849fb5d55bf9de1db4389e30c0020c5",
+      "place_id": "WashingtonDC:0000924",
+      "text_id": "WashingtonDC:0000924_T4",
+      "text": "Brick building with multi-story residential structure.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/WashingtonDC/WashingtonDC_0000924_2018_10_357_38.90249943807014_-77.00255216872434_8ipcfhfpbZtcKUpI2vU0pg.jpg",
+      "human_judgment": "supported",
+      "human_comment": "左右是红色墙面的砖建筑。"
+    },
+    {
+      "audit_id": "A07",
+      "evidence_id": "e442be9271ee786ea0e0784b2b40d213c95bd77c3d77b7474726ffe581bd7666",
+      "place_id": "PRS:0001755",
+      "text_id": "PRS:0001755_T0",
+      "text": "From this viewpoint, a stone-facade building with shuttered windows and ground-floor entrance stands left, adjacent to a paved road with sidewalk. A concrete cylindrical pole and red-white sign are on the right.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/PRS/PRS_0001755_2014_07_278_48.83744040431478_2.349149200606008_U-L14Qmzk8_V_UBvF27XMQ.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A08",
+      "evidence_id": "1ebc6e61cc398fe74c1af0f0752ed469fc8900d767dc8297483a8770db57369f",
+      "place_id": "Minneapolis:0004789",
+      "text_id": "Minneapolis:0004789_T3",
+      "text": "Building features red railing and wooden door with wooden facade.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Minneapolis/Minneapolis_0004789_2016_10_115_44.98966579143605_-93.24256205158522_W_HPR4czgrKFia28PspZqQ.jpg",
+      "human_judgment": "partial",
+      "human_comment": "不是木质墙面，而是黄色墙面。"
+    },
+    {
+      "audit_id": "A09",
+      "evidence_id": "e1991826208b9b600d634306a3ab48420d6719a14f9dd67a160d69997bbfd98b",
+      "place_id": "Medellin:0000248",
+      "text_id": "Medellin:0000248_T4",
+      "text": "Green roll-up doors on a building with orange-brown facade",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Medellin/Medellin_0000248_2018_12_393_6.235144898750837_-75.57244634220527_12gpmdG-51pTGPA-8F0fQQ.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A10",
+      "evidence_id": "1428c4b07b8280bee202d96ac1b418ce6c12262cb4cbffb3d6d30e920d42e230",
+      "place_id": "LosAngeles:0000583",
+      "text_id": "LosAngeles:0000583_T2",
+      "text": "White modern building with arched entrance and glass facade.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/LosAngeles/LosAngeles_0000583_2014_03_438_34.04832740428813_-118.2620482574782_qC1-xGNe2DgeiTm_ySj7fg.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A11",
+      "evidence_id": "e66a38c7729bbe9345f1afc4f82820bb4766715937a3ecfd55569a97cdbc4c17",
+      "place_id": "PRG:0001118",
+      "text_id": "PRG:0001118_T1",
+      "text": "From this viewpoint, a light-gray-facade building with balconies is right of a paved asphalt road. A yellow-facade building with windows is left. A tree with dense green canopy is left of the road. A metal pole stands left foreground, on the road.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/PRG/PRG_0001118_2014_04_530_50.0634919556225_14.4753547352373_tI78TsVTuOvh-bTR8bmJDg.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A12",
+      "evidence_id": "ee1f00c9f75b637893c5d3639b61c4988b4a104c4536c1504097efda44778794",
+      "place_id": "Rome:0001023",
+      "text_id": "Rome:0001023_T1",
+      "text": "From this viewpoint, a building with arched entrances, metal fence, and balcony facade is left, while a building with rocky cliff face and green vegetation is right. A metal pole with equipment is right, and a cobblestone road is below.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Rome/Rome_0001023_2016_07_091_41.88645438162551_12.48638988586605_h7YUbnKOZZGIlEfJcDignw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A13",
+      "evidence_id": "532a590ec4a596db3c8e0103c7e04c52eaba8b2bbf3f4d7c24d412be45804d7d",
+      "place_id": "Boston:0005926",
+      "text_id": "Boston:0005926_T4",
+      "text": "Brick building with glass windows and metal frame.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Boston/Boston_0005926_2011_06_120_42.37199882450152_-71.06082592254006__tS67-ujuwa1WL5GsfsQZQ.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A14",
+      "evidence_id": "e2c1390d2a2813d88e6bd715a1d32be9bf51978cfe622921e6ea7d60f48559a6",
+      "place_id": "Phoenix:0001033",
+      "text_id": "Phoenix:0001033_T0",
+      "text": "From this viewpoint, a light-colored concrete wall runs along the asphalt road, beside a leafy green tree and a tall metal pole with wires, adjacent to a single-story building with a light-colored roof.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Phoenix/Phoenix_0001033_2014_05_223_33.4322965319034_-112.0530778112632_ZdEKG_SXPR0w8fL9bbpwLw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A15",
+      "evidence_id": "0c3b9fab5ef7d92b751d3512efd9e0897b9bb4803d5be21e0ef6532d9c0a2a84",
+      "place_id": "Medellin:0000460",
+      "text_id": "Medellin:0000460_T5",
+      "text": "Weathered blue commercial building, one-story",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Medellin/Medellin_0000460_2013_05_269_6.238964959728518_-75.57246861189917_w7fcAq8fnBZ3jiCJpBqhZg.jpg",
+      "human_judgment": "partial",
+      "human_comment": "白色和蓝色墙面，右边有一根白色电线杆。"
+    },
+    {
+      "audit_id": "A16",
+      "evidence_id": "5ff23d9c94eef9d9408970b63ec47e5f67d48fc5b9d6d11e39fbe0614cca09dc",
+      "place_id": "Boston:0001466",
+      "text_id": "Boston:0001466_T2",
+      "text": "Stone facade building with barred windows and metal gate at corner.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Boston/Boston_0001466_2017_07_119_42.33408892681361_-71.07394728512597_l-4Ev98jG9x8EFXY2rSJuw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A17",
+      "evidence_id": "7b65b9eb5396ad7b00181f7707f7351405bab9ffa52271b2e0a3ba1b6ece77e7",
+      "place_id": "Rome:0002157",
+      "text_id": "Rome:0002157_T6",
+      "text": "From this viewpoint, a light gray building with an arched entrance stands left, adjacent to a plywood-covered building on the right, both above the sidewalk.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Rome/Rome_0002157_2016_07_254_41.90253321090637_12.48430646193788_cQRS3jsaS0rJtmJxrygcOw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A18",
+      "evidence_id": "2ccbe65bc4e5b8718ce283f780c6838c245699a2c9682ed56ebd21c7581d13a0",
+      "place_id": "MexicoCity:0000070",
+      "text_id": "MexicoCity:0000070_T1",
+      "text": "From this viewpoint, a blue and white building with green doors and a circular window is right, adjacent to a green and blue facade building, with pruned trees in front and a metal pole above.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/MexicoCity/MexicoCity_0000070_2015_02_226_19.40195511226252_-99.1833677010646_uwF2Tj_nt_5BqjF1xEkhtQ.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A19",
+      "evidence_id": "7337a7a365468983b32f1448d7928625ddbb9441d0b255ab8f0eb18966540696",
+      "place_id": "Boston:0008502",
+      "text_id": "Boston:0008502_T0",
+      "text": "From this viewpoint, a large white cylindrical metallic building stands right, adjacent to a brown brick rectangular building. A grainy asphalt road lies in front of the white building, with a metal pole to its left and a concrete sidewalk beside the road.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Boston/Boston_0008502_2018_08_226_42.39482285181037_-71.05359365243059_yk5KMpWBJJgAbvs3fsJz6Q.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A20",
+      "evidence_id": "c0b5dc08ee56c6c88e7efeb588faac65a535c838354bc6ac29a2f560cd50695e",
+      "place_id": "OSL:0004004",
+      "text_id": "OSL:0004004_T2",
+      "text": "Curved asphalt road bordered by grass, with a bare tree trunk nearby.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/OSL/OSL_0004004_2018_12_269_59.94806942444598_10.72338362261416_ArJCkAJrefrGnKSQQiO6dQ.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A21",
+      "evidence_id": "f2509d8362e547f9bbe5328ad592e0d168ccef6a4a7ff4d33ce6503bf0894f32",
+      "place_id": "Boston:0001462",
+      "text_id": "Boston:0001462_T0",
+      "text": "From this viewpoint, a modern glass building stands left background, asphalt road foreground with crosswalk, large leafy tree center background, metal pole left foreground with attached sign, black chain-link fence right foreground enclosing dirt pile.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Boston/Boston_0001462_2019_07_022_42.33393299401364_-71.07775740314729_rkbxnwctpT7cSYn9g2WSPA.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A22",
+      "evidence_id": "17ae4b0fbc004ee5540d09b9438127badcea7f6403f46409b34b6d870ca15844",
+      "place_id": "MexicoCity:0000063",
+      "text_id": "MexicoCity:0000063_T0",
+      "text": "From this viewpoint, a two-story white building with red trim and windows stands left foreground, adjacent to a leafy green tree. A black pole with wires is beside it, near an asphalt road with parked cars.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/MexicoCity/MexicoCity_0000063_2017_12_324_19.40050223706456_-99.14108472718002_Jx5YkIGPGxmm4P36GMxahQ.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A23",
+      "evidence_id": "5d464481aeae8b2ba29e419550b66306f6902396742b6d6b43960a44836eb8d3",
+      "place_id": "Chicago:0001174",
+      "text_id": "Chicago:0001174_T0",
+      "text": "From this viewpoint, a blue-tarp fence with metal poles stands on a concrete sidewalk, behind a leafy medium tree, with a red metal pole to its left and a brick multi-story building with a water tower on its roof to its right background.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Chicago/Chicago_0001174_2016_10_109_41.8528447061229_-87.62251628522935_CpVNwsrT3APQu4ds6RgZ3Q.jpg",
+      "human_judgment": "partial",
+      "human_comment": "左侧有红色消防栓。"
+    },
+    {
+      "audit_id": "A24",
+      "evidence_id": "7b44926779254d452539e31ebd78c162e6ddf579a372bf62311a6f0ce00026be",
+      "place_id": "Medellin:0000731",
+      "text_id": "Medellin:0000731_T1",
+      "text": "From this viewpoint, a white-and-green-painted building with tile roof is left foreground, opposite a brick-facade building with arched doorway. A red-and-white-painted building with signboard is center background, along an asphalt two-lane road.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Medellin/Medellin_0000731_2014_05_694_6.24395798000436_-75.56636415028545_REJ-SvvztDVQnbsozp67LA.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A25",
+      "evidence_id": "666b30858bbc63efc09fd0799f9878f3f0285957ca1ec9c9f17f91b3c6d816dc",
+      "place_id": "Miami:0001743",
+      "text_id": "Miami:0001743_T0",
+      "text": "From this viewpoint, a tall metal streetlight stands on a concrete road beside a metal barrier, with a distant high-rise building to the left and a blue water body beyond the road.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Miami/Miami_0001743_2009_06_310_25.74636212857185_-80.185951595209_SEEKX6M3ZFtpXrSXrv8mKw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A26",
+      "evidence_id": "fcbf72ff71cb1346939d2554f69820cb824153e0d3fbf01aa609e826a63dc255",
+      "place_id": "Bangkok:0003346",
+      "text_id": "Bangkok:0003346_T0",
+      "text": "From this viewpoint, a concrete multi-story building under construction stands left background, behind a brick fence with metal frame and perforated panels along an asphalt road with crosswalk lines.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Bangkok/Bangkok_0003346_2017_07_407_13.75313454480463_100.5227422361147_JXaVqGllFOQn3YJpCxbCxg.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A27",
+      "evidence_id": "68a35b456964b99f98a7bab9c3bdbb4565220c454a5e2294b68f05e37fc628bd",
+      "place_id": "PRS:0002862",
+      "text_id": "PRS:0002862_T0",
+      "text": "From this viewpoint, a light-colored building with balconies and shutters stands left, adjacent to a concrete sidewalk. A cobblestone road runs between it and a multi-story building with uniform windows, while a blue-sign pole and pedestrian sign are on the right.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/PRS/PRS_0002862_2014_07_351_48.86163104410415_2.281091947154049_zxdN4SKPxdPN_wDrM1mXKw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A28",
+      "evidence_id": "9a091c8220444b4d594cb5135f8c17f09617e252fd175087db307e426597e41b",
+      "place_id": "Miami:0002174",
+      "text_id": "Miami:0002174_T7",
+      "text": "From this viewpoint, a leafy green tree is in front of a white building with arched windows and red roof, while a metal pole is above it.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/Miami/Miami_0002174_2016_05_326_25.74785682660666_-80.25908900571646_u3tgXfdfp2Tz6UEnxAp6Yw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    },
+    {
+      "audit_id": "A29",
+      "evidence_id": "55d6698811390ea091e4268c5447efc093520f7b8f7a087a33f352ad90ab859d",
+      "place_id": "London:0006711",
+      "text_id": "London:0006711_T3",
+      "text": "White stone facade features large windows and balconies on a tall structure.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/London/London_0006711_2016_06_357_51.51846137372773_-0.123014891885505_EQyCZhqdrqWp3KAccJr8sA.jpg",
+      "human_judgment": "partial",
+      "human_comment": "左侧白色建筑，中间白色建筑上的窗户框外围是红色，右边是红色建筑。"
+    },
+    {
+      "audit_id": "A30",
+      "evidence_id": "c241356819275345d56c5fdd738bd41db55ae27adb9ffb01cc23b442e72febab",
+      "place_id": "OSL:0004873",
+      "text_id": "OSL:0004873_T2",
+      "text": "Light-colored siding building with snow on roof and white fence.",
+      "image_path": "/root/autodl-tmp/datasets/GSVCities/Images/OSL/OSL_0004873_2018_12_322_59.95799622021676_10.69470310939094_zvj6cdYRYoekYomoxCkLAw.jpg",
+      "human_judgment": "supported",
+      "human_comment": ""
+    }
+  ]
+}

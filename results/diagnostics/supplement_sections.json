@@ -1,0 +1,92 @@
+[
+  {
+    "section": 1,
+    "title": "Evaluation Units, Evidence Scope, and Reproducibility",
+    "words_in_source": 384
+  },
+  {
+    "section": 2,
+    "title": "Supervision Gains Across Ranks and Protocols",
+    "words_in_source": 331
+  },
+  {
+    "section": 3,
+    "title": "Reranking Responses and Directional Asymmetry",
+    "words_in_source": 336
+  },
+  {
+    "section": 4,
+    "title": "Adaptation Components Under the Same Protocol",
+    "words_in_source": 441
+  },
+  {
+    "section": 5,
+    "title": "Training-Seed Dispersion and Checkpoint Selection",
+    "words_in_source": 331
+  },
+  {
+    "section": 6,
+    "title": "Epoch-Wise Optimization and Diminishing Increments",
+    "words_in_source": 312
+  },
+  {
+    "section": 7,
+    "title": "Paired Observation Transfer as Hit Transitions",
+    "words_in_source": 341
+  },
+  {
+    "section": 8,
+    "title": "City-Level Heterogeneity in Independent-Observation Retrieval",
+    "words_in_source": 260
+  },
+  {
+    "section": 9,
+    "title": "Capture-Time and Heading Metadata",
+    "words_in_source": 263
+  },
+  {
+    "section": 10,
+    "title": "Caption Length and Generation-Type Associations",
+    "words_in_source": 297
+  },
+  {
+    "section": 11,
+    "title": "Fixed-Query Gallery Scaling and Endpoint Retention",
+    "words_in_source": 307
+  },
+  {
+    "section": 12,
+    "title": "Gallery-Draw Variation at Matched Cardinality",
+    "words_in_source": 374
+  },
+  {
+    "section": 13,
+    "title": "Rule-Status Differences Before and After Matching",
+    "words_in_source": 434
+  },
+  {
+    "section": 14,
+    "title": "Joint Human Judgments and Rule-Stratum Composition",
+    "words_in_source": 295
+  },
+  {
+    "section": 15,
+    "title": "Human-Stratified Retrieval Beyond a Single Cutoff",
+    "words_in_source": 559
+  },
+  {
+    "section": 16,
+    "title": "Shared Failures and Frozen-Model Complementarity",
+    "words_in_source": 356
+  },
+  {
+    "section": 17,
+    "title": "Qualitative Text-to-Image Retrieval",
+    "words_in_source": 148
+  },
+  {
+    "section": 18,
+    "title": "Qualitative Image-to-Text Retrieval",
+    "words_in_source": 145
+  }
+]

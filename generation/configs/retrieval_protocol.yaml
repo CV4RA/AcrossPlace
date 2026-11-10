@@ -1,0 +1,6 @@
+annotations: outputs/annotations/place_texts_filtered.jsonl
+output: outputs
+protocol: B
+duplicate_hamming: 4
+spatial_buffer_m: 25
+include_uncertain: true

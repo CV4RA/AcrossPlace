@@ -1,0 +1,87 @@
+{
+  "selection": "Post-hoc deterministic first audit IDs within documented outcome strata; illustrative, not random or population representative. First target view for I2T. No model fitting or checkpoint selection.",
+  "directions": {
+    "T2I": {
+      "patterns": {
+        "000": 228,
+        "110": 1,
+        "100": 7,
+        "001": 3,
+        "011": 1
+      },
+      "selected": [
+        {
+          "audit_id": "Q108",
+          "pattern": "001",
+          "stratum": "Supervision resolves"
+        },
+        {
+          "audit_id": "Q143",
+          "pattern": "001",
+          "stratum": "Supervision resolves"
+        },
+        {
+          "audit_id": "Q049",
+          "pattern": "100",
+          "stratum": "BLIP-only success"
+        },
+        {
+          "audit_id": "Q001",
+          "pattern": "000",
+          "stratum": "All methods fail"
+        },
+        {
+          "audit_id": "Q002",
+          "pattern": "000",
+          "stratum": "All methods fail"
+        },
+        {
+          "audit_id": "Q041",
+          "pattern": "110",
+          "stratum": "Additional outcome pattern"
+        }
+      ]
+    },
+    "I2T": {
+      "patterns": {
+        "000": 231,
+        "001": 3,
+        "110": 2,
+        "100": 3,
+        "010": 1
+      },
+      "selected": [
+        {
+          "audit_id": "Q015",
+          "pattern": "001",
+          "stratum": "Supervision resolves"
+        },
+        {
+          "audit_id": "Q095",
+          "pattern": "001",
+          "stratum": "Supervision resolves"
+        },
+        {
+          "audit_id": "Q055",
+          "pattern": "100",
+          "stratum": "BLIP-only success"
+        },
+        {
+          "audit_id": "Q089",
+          "pattern": "010",
+          "stratum": "Pretrained SigLIP2-only"
+        },
+        {
+          "audit_id": "Q001",
+          "pattern": "000",
+          "stratum": "All methods fail"
+        },
+        {
+          "audit_id": "Q002",
+          "pattern": "000",
+          "stratum": "All methods fail"
+        }
+      ]
+    }
+  }
+}

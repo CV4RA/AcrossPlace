@@ -1,0 +1,19 @@
+root: ../datasets/GSVCities
+output: outputs/data
+splits_output: outputs/splits
+cities: null
+limit_places: 100
+images_per_place: 4
+seed: 42
+shuffle: false
+place_list: null
+skip_bad_images: true
+verify_images: true
+split:
+  seed: 42
+  ratios:
+  - 0.8
+  - 0.1
+  - 0.1
+  buffer_m: 25
+  mode: place
