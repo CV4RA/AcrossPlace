@@ -1,8 +1,8 @@
 <div align="center">
 
-# AcrossPlace
+# 📍🌍🏙️AcrossPlace🚗🤖🧠
 ### Do Vision–Language Models Recognize Places Beyond Their Source Views?
-**A Comprehensive Benchmark for Cross-View Bidirectional Place Recognition**
+**🗃️A Comprehensive Benchmark for Cross-View Bidirectional Place Recognition**
 
 [Project website](https://acrossplace.ornatesparrow2.chatgpt.site) · [Data browser](https://acrossplace.ornatesparrow2.chatgpt.site/#explorer) · [Retrieval lab](https://acrossplace.ornatesparrow2.chatgpt.site/#demo) · [Dataset download (Google Drive)](https://drive.google.com/file/d/13639QpS-GX7ZeibqKaxd45dHxIo5Cf5W/view?usp=drive_link) · [📄Paper](./docs/view.pdf)
 
