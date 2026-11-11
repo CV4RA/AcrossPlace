@@ -4,7 +4,7 @@
 ### Do Vision–Language Models Recognize Places Beyond Their Source Views?
 **A Comprehensive Benchmark for Cross-View Bidirectional Place Recognition**
 
-[Project website](https://acrossplace.ornatesparrow2.chatgpt.site) · [Data browser](https://acrossplace.ornatesparrow2.chatgpt.site/#explorer) · [Retrieval lab](https://acrossplace.ornatesparrow2.chatgpt.site/#demo)
+[Project website](https://acrossplace.ornatesparrow2.chatgpt.site) · [Data browser](https://acrossplace.ornatesparrow2.chatgpt.site/#explorer) · [Retrieval lab](https://acrossplace.ornatesparrow2.chatgpt.site/#demo) · [Dataset download (Google Drive)](https://drive.google.com/file/d/13639QpS-GX7ZeibqKaxd45dHxIo5Cf5W/view?usp=drive_link)
 
 **56,726 places · 23 cities · 156,800 rule-valid descriptions · 113,404 target images**
 
@@ -98,6 +98,6 @@ The retrieval tests use actual tiny Transformers backbones and test gradients in
 
 ## Data, weights and licensing
 
-Raw imagery archives and model weights are intentionally separate from Git. The repository includes small attributed research illustrations and exact image hashes; their upstream terms still apply. Formal annotations must be obtained from the project release or reconstructed using the pipeline; this source release does not provide a public bulk-data download URL. Do not reconstruct the frozen main split by randomly re-splitting a new generation run.
+Raw imagery archives and model weights are intentionally separate from Git. The repository includes small attributed research illustrations and exact image hashes; their upstream terms still apply. Download the AcrossPlace dataset from [Google Drive](https://drive.google.com/file/d/13639QpS-GX7ZeibqKaxd45dHxIo5Cf5W/view?usp=drive_link). See [DATA.md](docs/DATA.md) for data preparation and verification. Do not reconstruct the frozen main split by randomly re-splitting a new generation run.
 
 Original software: [MIT](LICENSE). Data, model weights, and third-party assets: [separate upstream terms](THIRD_PARTY_NOTICES.md). If you use this research draft, cite the project repository until an archival publication identifier is available; no DOI or conference citation is invented here.
