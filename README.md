@@ -67,7 +67,7 @@ Main results below are **test Recall@1 (%)**, rounded; full Recall@1/5/10 and se
 | BLIP + MS, coarse | **17.54** | **23.62** | 6.09 | **8.36** |
 | BLIP + MS, selected reranking | 16.87 | 21.28 | **6.23** | 8.18 |
 
-Scores average three training seeds. The common training budget is three epochs, not a convergence claim. P0/P1 differ in training size, candidate count and query cohort, so their score gap does not isolate a causal geographic-generalization effect. The original P0 test set had been inspected before the frozen reruns; it is not an author-blind holdout. Automated `valid` status is not human ground truth. The 240-item, single-reviewer human audit is balanced by rule status and supports descriptive diagnosis, not population prevalence estimates.
+Scores average three training seeds. The common training budget is three epochs, not a convergence claim. P0/P1 differ in training size, candidate count and query cohort, so their score gap does not isolate a causal geographic-generalization effect. The original P0 test set had been inspected before the frozen reruns; it is not an author-blind holdout. Automated `valid` status is not human ground truth. The 240-item, single-reviewer human audit is balanced by rule status and supports descriptive diagnosis, not population prevalence estimates. [weight download](https://drive.google.com/drive/folders/1c4yCzIWvGZ8s4e8xViz-fbj69k89PLMm?usp=sharing)
 
 ## Local retrieval and website
 
