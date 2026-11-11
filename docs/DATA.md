@@ -2,7 +2,7 @@
 
 The initial selected image pool contains 62,279 places and 249,116 images. After generation and formal eligibility filtering, the benchmark contains **56,726 places**, 156,800 rule-valid texts and 113,404 independent target images. “62,279” is not the final training-place count.
 
-Obtain GSV-Cities images under upstream terms. Extract the project's independently supplied `GSVCities_62279_images.tar` into `datasets/GSVCities/`, so that `Images/<city>/<filename>.jpg` is reachable. Obtain the associated formal annotation directory, including its original `manifest.json`, `valid.jsonl` and all files listed in the manifest. The public code repository does not embed this large dataset or provide an invented download address.
+Obtain GSV-Cities images under upstream terms. Extract the project's independently supplied `GSVCities_62279_images.tar` into `datasets/GSVCities/`, so that `Images/<city>/<filename>.jpg` is reachable. Obtain the associated formal annotation directory, including its original `manifest.json`, `valid.jsonl` and all files listed in the manifest. The dataset is available from [Google Drive](https://drive.google.com/file/d/13639QpS-GX7ZeibqKaxd45dHxIo5Cf5W/view?usp=drive_link). The repository does not embed the dataset.
 
 ```text
 datasets/
